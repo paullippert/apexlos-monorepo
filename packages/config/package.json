@@ -1,0 +1,17 @@
+{
+  "name": "@apexlos/config",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "eslint-preset.js"
+  ],
+  "dependencies": {
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.33.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
